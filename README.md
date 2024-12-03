@@ -14,11 +14,12 @@ This project is a simple college tuition calculator built using Python and the *
 
 ## Project Structure
 
-your_project/ 
-├── tuition_calculator_logic.py # Logic for calculating tuition costs 
-├── tuition_calculator_ui.py # Graphical user interface using CustomTkinter 
-├── main.py # Entry point for running the application 
-└── README.md # This file
+your_project/
+├── tuition_calculator_logic.py
+├── tuition_calculator_ui.py
+├──README.md
+└── main.py
+
 
 
 ### Files Overview:
