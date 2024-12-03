@@ -12,16 +12,6 @@ This project is a simple college tuition calculator built using Python and the *
   - Nonresident fee for nonresident students
 - Displays the calculated tuition cost in a user-friendly interface.
 
-## Project Structure
-
-your_project/
-├── tuition_calculator_logic.py
-├── tuition_calculator_ui.py
-├──README.md
-└── main.py
-
-
-
 ### Files Overview:
 - **`tuition_calculator_logic.py`**: Contains the logic to calculate the tuition cost based on inputs such as credits, residency status, student level, and orientation fee.
 - **`tuition_calculator_ui.py`**: Defines the graphical user interface (GUI) using CustomTkinter, allowing users to input their information and display results.
