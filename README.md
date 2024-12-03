@@ -1,6 +1,6 @@
 # College Tuition Calculator
 
-This project is a simple college tuition calculator built using Python and the **CustomTkinter** library. It allows users to calculate the total tuition cost based on their residency, student level (Undergraduate/Graduate), the number of credits, and whether they are being charged an orientation fee.
+This project is a simple college tuition calculator built using Python and the **CustomTkinter** library. It allows users to calculate the total tuition cost based on their residency, student level (Undergraduate/Graduate), the number of credits, and whether they are being charged an orientation fee. This is for Programming Language Choice Lab 1.
 
 ## Features
 
