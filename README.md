@@ -51,9 +51,9 @@ python main.py
 This will launch the college tuition calculator application in a new window.
 
 ## How to Use
--Enter the number of credits in the provided input field.
--Select your student level (Undergraduate or Graduate).
--Select your residency status (Resident or Nonresident).
--Check the option for the orientation fee if you're a new student.
--Click the "Calculate Tuition" button to see the total tuition cost.
--The result will be displayed below the button with the total cost, including any applicable fees.
+- Enter the number of credits in the provided input field.
+- Select your student level (Undergraduate or Graduate).
+- Select your residency status (Resident or Nonresident).
+- Check the option for the orientation fee if you're a new student.
+- Click the "Calculate Tuition" button to see the total tuition cost.
+- The result will be displayed below the button with the total cost, including any applicable fees.
